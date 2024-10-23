@@ -2,3 +2,9 @@
   font-size: 44px;
   font-weight: 500;
 }
+
+li {
+  padding-left: 15px;
+  padding-bottom: 25px;
+  font-size: 14px;
+}
